@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Crypto/Crypto2_GIT/FEAL.cpp
+FEAL.h
+/cygdrive/d/Crypto/Crypto2_GIT/FEAL.h
+
+/cygdrive/d/Crypto/Crypto2_GIT/FEAL.h
+stdlib.h
+-
+stdint.h
+-
+
+/cygdrive/d/Crypto/Crypto2_GIT/main.cpp
+FEAL.h
+/cygdrive/d/Crypto/Crypto2_GIT/FEAL.h
+stdio.h
+-
+unistd.h
+-
+
